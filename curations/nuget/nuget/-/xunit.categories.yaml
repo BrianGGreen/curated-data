@@ -12,3 +12,14 @@ revisions:
   2.0.6:
     licensed:
       declared: Apache-2.0
+  2.0.8:
+    described:
+      sourceLocation:
+        name: Xunit.Categories
+        namespace: brendanconnolly
+        provider: github
+        revision: 784bb308da297a8fa30aad54a3eea352a41cfd8c
+        type: git
+        url: 'https://github.com/brendanconnolly/Xunit.Categories/tree/784bb308da297a8fa30aad54a3eea352a41cfd8c'
+    licensed:
+      declared: Apache-2.0
