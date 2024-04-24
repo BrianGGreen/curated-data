@@ -1,0 +1,16 @@
+coordinates:
+  name: NetStorageKit.Standard
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.5:
+    described:
+      sourceLocation:
+        name: netstoragekit-c-sharp
+        namespace: meelist
+        provider: github
+        revision: 9a40979013c05cf22cc5a25373998ea2d1f2390d
+        type: git
+        url: 'https://github.com/meelist/netstoragekit-c-sharp/commit/9a40979013c05cf22cc5a25373998ea2d1f2390d'
+    licensed:
+      declared: Apache-2.0
