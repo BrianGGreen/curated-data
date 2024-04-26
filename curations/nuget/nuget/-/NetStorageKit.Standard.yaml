@@ -1,0 +1,33 @@
+coordinates:
+  name: NetStorageKit.Standard
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.5:
+    described:
+      sourceLocation:
+        name: netstoragekit-c-sharp
+        namespace: meelist
+        provider: github
+        revision: 9a40979013c05cf22cc5a25373998ea2d1f2390d
+        type: git
+        url: 'https://github.com/meelist/netstoragekit-c-sharp/commit/9a40979013c05cf22cc5a25373998ea2d1f2390d'
+    files:
+      - attributions:
+          - '(c) 2008 VeriSign, Inc.'
+        license: Apache-2.0
+        path: .signature.p7s
+      - license: Apache-2.0
+        path: '[Content_Types].xml'
+      - license: Apache-2.0
+        path: NetStorageKit.Standard.nuspec
+      - license: Apache-2.0
+        path: _rels/.rels
+      - license: Apache-2.0
+        path: lib/netstandard2.0/NetStorage.Standard.dll
+      - license: Apache-2.0
+        path: lib/netstandard2.0/NetStorage.Standard.xml
+      - license: Apache-2.0
+        path: package/services/metadata/core-properties/a130b6b070d448dfb833b6175354938d.psmdcp
+    licensed:
+      declared: Apache-2.0+
